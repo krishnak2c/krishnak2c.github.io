@@ -20,8 +20,8 @@
 <br />
 
 
-[website]: https://
-[telegram]: https://t.me/krishna26211
+[website]: krishnk216.github.io
+[telegram]: https://t.me/krishna2621
 
 # Credit
 Jason Tyler for toggle.
