@@ -1,18 +1,18 @@
 <h1 align="center">Portfolio Theme</h1>
 <p><b>A light weight , responsive portfolio theme by <a href="https://github.com/krishna6688">Krishna</a></b></p>
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Portfolio/)
-[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/krishna6688/Portfolio/fork)
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishnk216.github.io/Portfolio/)
+[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/krishk216/Portfolio/fork)
 
-<p> Join our group for more templates and updates <a href="https://t.me/web_zone"><b>@Web_Zone</b></a></p>
+
 
 <img src="http://telegra.ph//file/7f621c37c0a6b908a388d.jpg">
 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/krishna6688/Portfolio)
-[![Stars](https://img.shields.io/github/stars/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/network/members)
-![Repo Size](https://img.shields.io/github/repo-size/krishna6688/Portfolio?style=flat-square)
+[![Stars](https://img.shields.io/github/stars/krishk216/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/stargazers)
+[![Forks](https://img.shields.io/github/forks/krishk216/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/network/members)
+![Repo Size](https://img.shields.io/github/repo-size/krishk216/Portfolio?style=flat-square)
 
 ## Connect with me:
 [<img align="left" color="blue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,8 +20,8 @@
 <br />
 
 
-[website]: https://krishna6688.me
-[telegram]: https://t.me/hacker11000
+[website]: https://
+[telegram]: https://t.me/krishna26211
 
 # Credit
 Jason Tyler for toggle.
