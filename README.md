@@ -1,7 +1,7 @@
 <h1 align="center">Portfolio Theme</h1>
 <p><b>A light weight , responsive portfolio theme by <a href="https://github.com/krishk216">Krishna</a></b></p>
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishnk216.github.io)
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishk216.github.io/Portfolio/)
 [![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/krishk216/Portfolio/fork)
 
 
