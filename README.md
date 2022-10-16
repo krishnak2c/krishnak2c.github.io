@@ -20,7 +20,7 @@
 <br />
 
 
-[website]: krishnnak2c.github.io
+[website]: https://krishnak2c.github.io/Portfolio
 [telegram]: https://t.me/krishna2621
 
 # Credit
