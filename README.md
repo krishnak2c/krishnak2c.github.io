@@ -9,11 +9,6 @@
 <img src="http://telegra.ph//file/7f621c37c0a6b908a388d.jpg">
 
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/krishna6688/Portfolio)
-[![Stars](https://img.shields.io/github/stars/krishk216/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/krishk216/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/network/members)
-![Repo Size](https://img.shields.io/github/repo-size/krishk216/Portfolio?style=flat-square)
-
 ## Connect with me:
 [<img align="left" color="blue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" color="blue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
